@@ -1,8 +1,64 @@
-.virtualizedList .ReactVirtualized__Grid__innerScrollContainer div {
-    height: auto !important;
+html {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.virtualizedList .ReactVirtualized__Grid__innerScrollContainer > div {
+  height: auto !important;
 }
 
 .boxContainer {
-    padding: 12px;
-    
+  padding: 12px;
+  border-bottom: 1px solid gray;
+}
+
+.boxContainer .header {
+  display: flex;
+  gap: 18px;
+  align-items: center;
+  padding: 16px;
+}
+
+.boxContainer .header .avatar {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #f44336;
+  font-size: 1.25rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.boxContainer .header .postTitle .date {
+  color: rgb(0 0 0 / 54%);
+}
+
+.boxContainer .postDescription {
+  padding: 16px;
+  line-height: 1.5;
+}
+
+.boxContainer .actionButtons {
+  padding: 8px 16px;
+  display: flex;
+  gap: 24px;
+}
+
+.boxContainer .actionButtons svg {
+  fill: rgba(0, 0, 0, 0.54);
+}
+
+.sideBar {
+  width: 20%;
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  color: #f44336;
+  border: 1px solid gray;
 }
