@@ -1,0 +1,8 @@
+.virtualizedList .ReactVirtualized__Grid__innerScrollContainer div {
+    height: auto !important;
+}
+
+.boxContainer {
+    padding: 12px;
+    
+}
