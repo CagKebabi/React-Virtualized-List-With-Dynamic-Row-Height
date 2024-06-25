@@ -5,8 +5,8 @@ import "./app.css"
 const list = [
   {name:"dfdf",description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, perferendis?"},
   {name:"dfdf",description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio expedita consequatur exercitationem eaque dolorem voluptatibus quam modi voluptate soluta temporibus harum suscipit, veritatis, maiores officia perspiciatis error rem quod, tempora alias mollitia architecto deleniti magnam maxime illum. Doloribus aut, voluptas voluptatibus eaque sit tempore id rem. Minus, alias? Vero, reprehenderit?"},
-  {name:"dfdf",description:""},
-  {name:"dfdf",description:""},
+  {name:"dfdf",description:"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Modi, iste dignissimos. Id labore necessitatibus eligendi!"},
+  {name:"dfdf",description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa illo sequi nesciunt vero corrupti perferendis laborum magnam necessitatibus, earum tempora."},
   {name:"dfdf",description:""},
   {name:"dfdf",description:""},
   {name:"dfdf",description:""},
@@ -40,13 +40,11 @@ const list = [
   // And so on...
 ];
 
-// CellMeasurerCache oluşturun
+//CellMeasurerCache oluşturun
 const cache = new CellMeasurerCache({
   fixedWidth: true,
   defaultHeight: 50,
 });
-
-// this.rowRenderer = this.rowRenderer.bind(this);
 
 //
 function rowRenderer({
@@ -106,7 +104,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
             className='virtualizedList'
             //autoHeight={true}
             deferredMeasurementCache={cache}
-
           />
       )}
     </AutoSizer>
