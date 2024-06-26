@@ -88,7 +88,86 @@ const list = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa illo sequi nesciunt vero corrupti perferendis laborum magnam necessitatibus, earum tempora.",
   },
-  // And so on...
+  {
+    name: "İsim Soyisim",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, perferendis?",
+  },
+  {
+    name: "İsim Soyisim",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio expedita consequatur exercitationem eaque dolorem voluptatibus quam modi voluptate soluta temporibus harum suscipit, veritatis, maiores officia perspiciatis error rem quod, tempora alias mollitia architecto deleniti magnam maxime illum. Doloribus aut, voluptas voluptatibus eaque sit tempore id rem. Minus, alias? Vero, reprehenderit?",
+  },
+  {
+    name: "İsim Soyisim",
+    description:
+      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Modi, iste dignissimos. Id labore necessitatibus eligendi!",
+  },
+  {
+    name: "İsim Soyisim",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa illo sequi nesciunt vero corrupti perferendis laborum magnam necessitatibus, earum tempora.",
+  },
+  {
+    name: "İsim Soyisim",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, perferendis?",
+  },
+  {
+    name: "İsim Soyisim",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio expedita consequatur exercitationem eaque dolorem voluptatibus quam modi voluptate soluta temporibus harum suscipit, veritatis, maiores officia perspiciatis error rem quod, tempora alias mollitia architecto deleniti magnam maxime illum. Doloribus aut, voluptas voluptatibus eaque sit tempore id rem. Minus, alias? Vero, reprehenderit?",
+  },
+  {
+    name: "İsim Soyisim",
+    description:
+      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Modi, iste dignissimos. Id labore necessitatibus eligendi!",
+  },
+  {
+    name: "İsim Soyisim",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa illo sequi nesciunt vero corrupti perferendis laborum magnam necessitatibus, earum tempora.",
+  },
+  {
+    name: "İsim Soyisim",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, perferendis?",
+  },
+  {
+    name: "İsim Soyisim",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio expedita consequatur exercitationem eaque dolorem voluptatibus quam modi voluptate soluta temporibus harum suscipit, veritatis, maiores officia perspiciatis error rem quod, tempora alias mollitia architecto deleniti magnam maxime illum. Doloribus aut, voluptas voluptatibus eaque sit tempore id rem. Minus, alias? Vero, reprehenderit?",
+  },
+  {
+    name: "İsim Soyisim",
+    description:
+      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Modi, iste dignissimos. Id labore necessitatibus eligendi!",
+  },
+  {
+    name: "İsim Soyisim",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa illo sequi nesciunt vero corrupti perferendis laborum magnam necessitatibus, earum tempora.",
+  },
+  {
+    name: "İsim Soyisim",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, perferendis?",
+  },
+  {
+    name: "İsim Soyisim",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio expedita consequatur exercitationem eaque dolorem voluptatibus quam modi voluptate soluta temporibus harum suscipit, veritatis, maiores officia perspiciatis error rem quod, tempora alias mollitia architecto deleniti magnam maxime illum. Doloribus aut, voluptas voluptatibus eaque sit tempore id rem. Minus, alias? Vero, reprehenderit?",
+  },
+  {
+    name: "İsim Soyisim",
+    description:
+      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Modi, iste dignissimos. Id labore necessitatibus eligendi!",
+  },
+  {
+    name: "İsim Soyisim",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa illo sequi nesciunt vero corrupti perferendis laborum magnam necessitatibus, earum tempora.",
+  },
 ];
 
 //Dinamik rowHeigt için CellMeasurerCache oluşturdum
